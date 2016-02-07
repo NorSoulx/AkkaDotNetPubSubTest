@@ -1,6 +1,6 @@
 # AkkaDotNetPubSubTest
 
-Learning me some Akka.Net with F#
+Learning me some Akka.Net with F# (work in progress)
 
 Using OS X, Xamarin and mono
 
